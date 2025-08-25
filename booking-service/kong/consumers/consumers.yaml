@@ -1,0 +1,3 @@
+consumers:
+- username: toto
+  service: booking-service
