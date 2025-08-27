@@ -1,3 +1,7 @@
 consumers:
 - username: toto
   service: booking-service
+- username: sidi ahmed
+  service: booking-service
+- username: string
+  service: booking-service
